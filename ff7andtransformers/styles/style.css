@@ -1,0 +1,24 @@
+header {
+    padding: 1em;
+    text-align: center;
+    color: #808080;
+    background-color: #7393B3;
+}
+.text1 {
+    display: grid;
+    height: 100px;
+    width: 300px;
+    grid-template-columns: 300px;
+    grid-template-rows: 100px;
+    grid-column: 1;
+    grid-row: 1/2;
+}
+.img1 {
+    display: grid;
+    height: 100px;
+    width: 300px;
+    grid-template-columns: 300px;
+    grid-template-rows: 100px;
+    grid-column: 1;
+    grid-row: 1/2;
+}
